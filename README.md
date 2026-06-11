@@ -44,7 +44,7 @@ My work included:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Roli2310/smash-dash.git
+git clone https://github.com/Roli2310/smash-dash-java.git
 cd smash-dash-java
 ```
 
