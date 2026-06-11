@@ -45,7 +45,7 @@ My work included:
 
 ```bash
 git clone https://github.com/Roli2310/smash-dash.git
-cd smash-dash
+cd smash-dash-java
 ```
 
 Run the project:
@@ -56,7 +56,8 @@ Run the project:
 
 ## 📸 Screenshot
 
-Add a screenshot or GIF of the game here.
+<img width="1080" height="779" alt="image" src="https://github.com/user-attachments/assets/564530ec-9819-4cd5-853a-67f5f7f538e2" />
+
 
 ## 🎓 Background
 
